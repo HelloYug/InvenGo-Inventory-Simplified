@@ -1,0 +1,5 @@
+openpyxl
+tabulate
+pyautogui
+Pillow
+pywin32
